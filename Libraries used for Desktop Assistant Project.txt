@@ -1,0 +1,6 @@
+Libraries used for making my Desktop Assistant Project:-
+Tkinter
+speech_recognition
+pyttsx3
+os
+webbrowser
